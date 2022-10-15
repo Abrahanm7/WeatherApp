@@ -1,0 +1,29 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(72, 79, 90, 0.607);
+}   
+.a{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+
+.img{
+    margin-right: 10px;
+}
+
+.SearchBar{
+    display: flex;
+    justify-content: flex-end;
+    width: 93%;
+}
+.about{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: black;
+}

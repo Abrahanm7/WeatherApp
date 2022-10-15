@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+
+}
+@import url('http://fonts.cdnfonts.com/css/baron-neue');
+
+#body{
+  background-image: url("./pexels-brett-sayles-1431822.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Baron Neue';
+}

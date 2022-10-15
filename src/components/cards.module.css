@@ -1,0 +1,7 @@
+.case{
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin : 10px;
+}
